@@ -13,6 +13,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |----|--------------|----------|-----------------|------|
 |[Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs)||Submitted|||
 |[Ahan Malhotra](https://twitter.com/ahan_tm)|[TEDxCoconutGrove](https://itunes.apple.com/us/app/tedxcoconutgrove/id1078121660)|Submitted|CloudKit & Maps|Accepted|
+|[Al Park](https://www.linkedin.com/in/alspark)|[Reax - WITNESS AMERICA RIGHT NOW!](https://itunes.apple.com/us/app/reax-witness-america-right/id1076183758?mt=8)||3D Touch|Accepted|
 |[Alexander Groß](https://www.facebook.com/iamag3)|[doYoKno](https://itunes.apple.com/ai/app/doyokno/id1016053500?mt=8)|Submitted||Accepted|
 |[Alex Hoppen](https://twitter.com/ahoppen)||[GitHub](https://github.com/ahoppen/WWDC-Scholarship-2016)||Accepted|
 |[Alex Melnychuck](https://www.facebook.com/amelnychuck)|[The Diary - Track your health anywhere](https://itunes.apple.com/app/apple-store/id1020281972?mt=8)|Submitted|CareKit & NSLinguisticTagger|Accepted|
@@ -33,6 +34,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Brendan Boyle](https://twitter.com/brendancboyle)|[Universal Presenter Remote](https://itunes.apple.com/us/app/universal-presenter-remote/id866740670?ls=1&mt=8)|[GitHub](https://github.com/brendancboyle/Universal-Presenter-Remote-iOS/)|watchOS 2 & 3D Touch|Accepted|
 |[Cheng-Yu Hsu](https://twitter.com/cyhsutw)|[Hop](http://hop.appfinca.com)|[GitHub](https://github.com/cyhsutw/imaji)||Rejected|
 |[Cristian Tabuyo](https://instagram.com/ctapple_swift)|[Temperature](https://itunes.apple.com/es/app/alternativa-a-un-termometro/id1098259543?mt=8)|Submitted|||
+|[Damian Camilleri](https://damiancamilleri.com/)||Submitted|3D Touch & Collection Views|Accepted|
 |[Dean Eigenmann](https://twitter.com/parklyapp)|[Parkly](https://www.parkly.ch)||||
 |[Duan Wen](https://twitter.com/wddwycc)||[Github](https://github.com/wddwycc/Freehand)||Rejected|
 |[Eduardo Santi](https://br.linkedin.com/in/eduardo-santi-44a9a399)||[GitHub](https://github.com/santieduardo/WWDC16)|3D Touch & MapKit||
@@ -43,12 +45,16 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Felipe Silva](https://twitter.com/felipedmsilva)|[Aliens Jelly](https://itunes.apple.com/us/app/aliens-jelly/id1100376973?l=pt&ls=1&mt=8)||Siri Remote & SpriteKit||
 |[Felix Knispel](https://twitter.com/felkni)||Submitted|HomeKit|Accepted|
 |[Finn Gaida](https://twitter.com/fga)|[Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8)|[GitHub](https://github.com/finngaida/wwdc/tree/master/2016)|Live Photos & UIVisualEffects|Rejected|
+|[Florian Pfisterer](https://twitter.com/FlorianPfi)|[FlowLog](https://itunes.apple.com/app/flowlog-find-your-flow-in/id1072346312)||CoreAnimation & Notifications|Accepted|
 |[George Turner](https://twitter.com/FlamingFusion)||Submitted|Apple Watch & Push Notifications|Rejected|
 |[Gustaf Rosenblad](https://twitter.com/rosecoder)|[School meal](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|||
-|[Hari](https://www.twitter.com/coderguy5)||Submitted|||
+|[Hari](https://www.twitter.com/coderguy5)||Submitted|Core Motion & GLKit|Rejected|
 |[Harish Yerra](https://www.twitter.com/harishyerra4)||Submitted|3D Touch & MapKit|Accepted|
 |[Henrique Valcanaia](https://twitter.com/henrique_iv)|[Rett Syndrome](https://itunes.apple.com/br/app/rett-syndrome/id1043536159?mt=8)|[Teamboard for TV](https://itunes.apple.com/br/app/teamboard-for-tv/id1109057770?l=tr&mt=8)|ResearchKit & 3D Touch|Rejected|
+|[Hollis Liu](https://twitter.com/hollis0807)|[Spread](https://itunes.apple.com/us/app/spread-get-things-done/id1061507772?mt=8)||3D Touch & HealthKit|Accepted|
+|[Jan Philip Bernius](https://github.com/jpbernius)||Submitted|3D Touch & MapKit|Accepted|
 |Jari Martens|[ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8)|Submitted|||
+|[Jaxon Kneipp](http://www.jaxonkneipp.com/)||Submitted|3D Touch & Apple Watch|Accepted|
 |[Jeremy Stucki](https://twitter.com/parklyapp)|[Parkly](https://www.parkly.ch)||||
 |[Jessica Yeh](https://twitter.com/JessicaYeh)|[OmniBuzz](https://itunes.apple.com/us/app/omnibuzz-location-alarm-for/id1076106050)||MapKit & Core Location|Accepted|
 |[Jimmy Liu](https://twitter.com/zuhayeer)|[Bash - Organize activities with friends](https://itunes.apple.com/app/apple-store/id967147939?mt=8)|||Accepted|
@@ -57,6 +63,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Kabir Oberai](https://twitter.com/kabiroberai)||Submitted|||
 |[Kai Aldag](https://twitter.com/kaicode2)||Submitted|3D Touch & Core Spotlight Search|Accepted|
 |[Kesi Maduka](https://twitter.com/k3zi_)||[Homepage](https://stm.io)|CoreAudio & 3D Touch|Rejected|
+|[Kilian Koeltzsch](https://github.com/kiliankoe)|[ParkenDD](https://parkendd.de)||MapKit & 3D Touch|Accepted|
 |[Klemens Strasser](https://twitter.com/klemensstrasser)|[Elementary Minute](https://itunes.apple.com/us/app/elementary-minute/id889417668?mt=8)|[Homepage](https://www.facebook.com/Asymmetric-1016800745046748/?fref=ts)|||
 |[Kyle Bashour](https://twitter.com/kylebshr)|[Dodger](https://itunes.apple.com/app/id1050023116)|[Grove](https://github.com/kylebshr/grove)||Rejected|
 |[Kyle Spadaro](https://twitter.com/kylespadaro)||[GitHub](https://github.com/kylespadaro/KyleSpadaro)|WebKit & UIKit|Accepted|
@@ -77,12 +84,14 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Sam Eckert](https://twitter.com/Sam0711er)|[Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)|[YouTube](https://www.youtube.com/watch?v=4uFP_xQWOX4)|3D Touch & watchOS|Rejected|
 |[Sam Patzer](https://twitter.com/wizages)||[YouTube](https://www.youtube.com/watch?v=-DFINkoEZhU)|||
 |[Sebastian Dobrincu](https://twitter.com/sebyddd)|[Voya - Your personal travel assistant](https://itunes.apple.com/us/app/voya-your-personal-travel/id1082760606)|[YouTube](https://www.youtube.com/watch?v=fbTMWC0y9hs)|| Accepted |
+|[Shashank Sharma](https://www.facebook.com/shashank135sharma)||Submitted|HomeKit |Accepted|
 |[Shunzhe Ma](https://twitter.com/ShunzheMa)||Submitted|||
 |[Siddhant Chaurasia](https://twitter.com/mr_s_chaurasia)|[Places@SST](https://itunes.apple.com/us/app/places-sst/id921357959?mt=8)||||
 |[Simon Christian Krüger](http://kayos.eu/)|[caffe:ne](https://appsto.re/de/vsYj7.i)||HealthKit & CoreAnimation|Accepted|
-|[Stephen McMillan](https://twitter.com/stevowevo77)|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)||||
+|[Stephen McMillan](https://twitter.com/stevowevo77)|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)|| WatchKit & 3D Touch | Accepted |
 |[Stephen Melinyshyn](https://melinysh.me)||[GitHub](https://github.com/Melinysh/WWDC-Student-Scholarship-App-2016) | UIDynamics & 3D Touch | Accepted |
 |Tejen Patel||[YouTube](https://x.tejen.net/hzc) / [GitHub](https://www.github.com/tejen/codepath-flicks/)||Accepted|
+|[Timur Galimov](https://www.facebook.com/timaktimaktimak)|[Adicty - awesome dictionary for addicted](https://itunes.apple.com/us/app/adicty-awesome-dictionary/id979262617?mt=8)|| 3D Touch & Spotlight Search | Accepted |
 |Tom Morrell|[Saker - Emotion recognition](http://saker.io)||ResearchKit & 3D Touch|Accepted|
 |[Varun Shenoy](http://varunshenoy.github.io/)||Submitted|3D Touch & MapKit|Accepted|
 |[Vegard Solheim Theriault](https://twitter.com/vegather)||[Github](https://github.com/vegather/2048-Multiplayer)|SpriteKit|Accepted|
